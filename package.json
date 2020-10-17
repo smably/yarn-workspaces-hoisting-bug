@@ -1,0 +1,14 @@
+{
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "project-a"
+    ]
+  },
+  "devDependencies": {
+    "husky": "^3.0.0",
+    "prettier": "^2.0.0",
+    "pretty-quick": "^3.0.0"
+  },
+  "dependencies": {}
+}
